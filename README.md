@@ -1,2 +1,3 @@
-# laravel-blog
-laravel version v5.2
+# Laravel PHP Framework
+
+Blog Example 
